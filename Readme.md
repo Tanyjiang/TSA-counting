@@ -7,8 +7,6 @@ This repository is for incremental object counting. The model learns different c
 Overall architecture of our method. To learn incremental tasks, the network fine-tunes a frozen CLIP, mainly by updating two proposed components:
 a structure-anchored modulation adapter and an incremental cross-semantic weaver.
 
-<img src="vis/network.png" width="1000"/>   
-
 ## Installation
 * Clone this repository
 * Organize your datasets as required

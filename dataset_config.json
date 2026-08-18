@@ -1,0 +1,36 @@
+{
+  "background_class": "others",
+  "prompt_file": "prompt/class_prompt.json",
+  "stages": [
+    {
+      "directory": "category_1",
+      "class_name": "class_1",
+      "file_prefix": "class1_"
+    },
+    {
+      "directory": "category_2",
+      "class_name": "class_2",
+      "file_prefix": "class2_"
+    },
+    {
+      "directory": "category_3",
+      "class_name": "class_3",
+      "file_prefix": "class3_"
+    },
+    {
+      "directory": "category_4",
+      "class_name": "class_4",
+      "file_prefix": "class4_"
+    },
+    {
+      "directory": "category_5",
+      "class_name": "class_5",
+      "file_prefix": "class5_"
+    },
+    {
+      "directory": "category_n",
+      "class_name": "class_n",
+      "file_prefix": "classn_"
+    }
+  ]
+}

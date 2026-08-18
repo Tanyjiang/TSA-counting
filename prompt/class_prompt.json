@@ -1,0 +1,44 @@
+{
+  "others": [
+    "A photo of backgrounds"
+  ],
+  "category_1": [
+    "A photo of class_1"
+  ],
+  "category_2": [
+    "A photo of class_2"
+  ],
+  "category_3": [
+    "A photo of class_3"
+  ],
+  "category_4": [
+    "A photo of class_4"
+    ],
+  "category_5": [
+    "A photo of class_5"
+    ],
+  "category_n": [
+    "A photo of class_n"
+    ],
+  "0": [
+    "A photo of backgrounds"
+  ],
+  "1": [
+    "A photo of class_1"
+  ],
+  "2": [
+    "A photo of class_2"
+  ],
+  "3": [
+    "A photo of class_3"
+  ],
+  "4": [
+    "A photo of class_4"
+    ],
+  "5": [
+    "A photo of class_5"
+    ],
+  "n": [
+    "A photo of class_n"
+    ]
+}
